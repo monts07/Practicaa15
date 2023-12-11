@@ -22,6 +22,7 @@
     </header>
 <section id="contenedor">
 <section  class="problema">
+    <h2>Luis Armando Arroyo Monterrosas C19090792</h2>
   <h2>Problema: Cálcular la densidad de la Tierra</h2>
   <p>Descripción:</p>
   <p>El radio de la Tierra es 6 378 km y su masa es 5.97E24 kg. <br>
